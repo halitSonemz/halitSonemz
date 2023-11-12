@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @halitSonemz
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning c++ & data structure
+- 💞️ I’m looking to collaborate on some projects 
